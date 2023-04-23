@@ -193,7 +193,7 @@ import {
       company_name: "Scope (ISO 9001-2000)",
       icon: iso,
       iconBg: "#E6DEDD",
-      date: "2006 - 2011",
+      date: "2006 - 2001",
       points: [
         "Conducted training on Java, Oracle 10G SQL &, PL/SQL for TechMahindra and TCG-I Vega in recent past.",
         "Conducted training on Web Technology, HTML, JavaScript & Java for IBM. Evaluated by IBM as the trainer for Core Java and Web Component Development",
